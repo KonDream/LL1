@@ -1,0 +1,32 @@
+#
+( CHAR FLOAT IDN INT STR 
+)
+)
+#
+# break char continue else float for if int return void while }
+#
+}
+break char continue float for if int return void while }
+break char continue float for if int return void while }
+break char continue float for if int return void while }
+break char continue float for if int return void while }
+break char continue float for if int return void while }
+break char continue float for if int return void while }
+)
+)
+( CHAR FLOAT IDN INT STR
+) , ;
+&& ) , ; ||
+&& ) , ; ||
+( CHAR FLOAT IDN INT STR
+( CHAR FLOAT IDN INT STR
+!= %= && ) *= ++ += , -- -= /= ; < <= = == > >= ||
+!= %= && ) *= ++ += , -- -= /= ; < <= = == > >= ||
+!= %= && ) *= + ++ += , - -- -= /= ; < <= = == > >= ||
+!= %= && ) *= + ++ += , - -- -= /= ; < <= = == > >= ||
+!= % %= && ) * *= + ++ += , - -- -= / /= ; < <= = == > >= ||
+!= % %= && ) * *= + ++ += , - -- -= / /= ; < <= = == > >= ||
+)
+)
+!= % %= && ) * *= + ++ += , - -- -= / /= ; < <= = == > >= ||
+!= % %= && ) * *= + ++ += , - -- -= / /= ; < <= = == > >= ||
