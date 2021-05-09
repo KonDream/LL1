@@ -1,0 +1,33 @@
+$ char float int void 
+$ char float int void 
+$ char float int void 
+$ char float int void  
+$ , 
+; { 
+{ 
+$ , 
+$ break char continue float for if int return void while 
+$ break char continue float for if int return void while 
+( CHAR FLOAT IDN INT STR 
+break continue return 
+ifor while 
+if 
+$ else 
+( CHAR FLOAT IDN INT STR 
+$ && || 
+&& || 
+$ ( CHAR FLOAT IDN INT STR 
+( CHAR FLOAT IDN INT STR 
+!= $ %= *= ++ += -- -= /= < <= = == > >= 
+!= < <= == > >= 
+%= *= += -= /= = 
+( CHAR FLOAT IDN INT STR 
+$ + - 
+( CHAR FLOAT IDN INT STR 
+$ % * / 
+( CHAR FLOAT IDN INT STR 
+$ ( 
+$ ( CHAR FLOAT IDN INT STR 
+$ , 
+CHAR FLOAT INT STR 
+INT 
